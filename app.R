@@ -3,20 +3,7 @@
 # Original implementation: Georgios Varotsis
 # Project context: CRUSH COVID initiative, Uppsala County
 # Original start date: 2020-11-06
-# Repository edition prepared for public archival release
-#
-# Public-release notes
-# - Do not commit row-level or personally identifiable data.
-# - Review all files under `data/` before publishing the repository.
-# - Keep any optional passwords, tokens, or upload keys in environment variables.
-#
-# Notes
-# - This code intentionally preserves the package ecosystem and coding style of the
-#   2020-2022 deployment period.
-# - The repository version removes direct personal contact details and is intended
-#   for historical reference, reproducibility, and code review.
-# - Data files are expected under the local `data/` and `images/` directories.
-#
+
 # Runtime libraries -------------------------------------------------------------
 required_packages <- c(
   "plyr",
